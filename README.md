@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text={Hi,Researcher!}&fontSize=90&fontAlign=50&fontAlignY=30&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text={Hi,Researcher!}&fontSize=90&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylwhxht&show_icons=true&theme=onedark)
