@@ -8,7 +8,7 @@
 -   2024/07/01 : One paper ([CMD](https://link.springer.com/chapter/10.1007/978-3-031-72998-0_13)) was accepted by `ECCV2024`
 -   2024/12/09 : One paper ([L4DR](https://arxiv.org/abs/2408.03677)  **(First Author)**) was accepted by `AAAI2025Oral`
 -   2025/02/27 : Two papers ([V2X-R](https://arxiv.org/abs/2411.08402)  **(First Author)**, [DOtA](https://arxiv.org/abs/2503.08421)) were accepted by `CVPR2025`
-
+-   2025/08/27 : One papers ([PCD++](https://ieeexplore.ieee.org/abstract/document/11124320/) was accepted by `TPAMI`
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ylwhxht&show_icons=true&theme=onedark" />
 </a>
