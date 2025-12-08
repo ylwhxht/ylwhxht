@@ -3,12 +3,7 @@
 - I'm currently interested in `Robust 3D object detection in adverse weather`, `Active embodied perception`.
 - How to reach me: `huangxun@stu.xmu.edu.cn`
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ylwhxht&show_icons=true&theme=onedark" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylwhxht)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylwhxht&layout=donut&theme=onedark&size_weight=0.8&count_weight=0.8&hide_rank=true&card_width=320" />
-</a>
 
 
