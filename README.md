@@ -3,7 +3,6 @@
 - I'm currently interested in `Robust 3D object detection in adverse weather`, `Active embodied perception`.
 - How to reach me: `huangxun@stu.xmu.edu.cn`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylwhxht)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ylwhxht&show_icons=true)
 
 
