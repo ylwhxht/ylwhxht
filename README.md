@@ -4,8 +4,7 @@
 - How to reach me: `huangxun@stu.xmu.edu.cn`
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ylwhxht&show_icons=true&hide_border=true&theme=radical" alt="KafuuChikai's stats" width="56%">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ylwhxht&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="KafuuChikai's lang" width="42.7%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ylwhxht&show_icons=true&hide_border=true&theme=radical" alt="KafuuChikai's stats" width="50%">
 </div>
 
 
